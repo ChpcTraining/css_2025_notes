@@ -6,9 +6,9 @@
 
 Open up this link in your browser:
 
-https://arcade.redhat.com/bash/index.htmlLinks to an external site.
+https://arcade.redhat.com/bash/index.html
 
-Play the game twice.
+Links to an external site.
 
 
 ## Challenge 2
