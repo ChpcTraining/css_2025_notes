@@ -2,7 +2,9 @@
 
 # Timetable
 
-![image](https://github.com/user-attachments/assets/62841091-442f-4053-87de-f02cd6aa2fe6)
+![image](https://github.com/user-attachments/assets/464f5cb9-8f7e-40c7-8bfd-a49510518463)
 
-![image](https://github.com/user-attachments/assets/8a009b03-40f4-4057-9191-ea325cbeb526)
+
+![image](https://github.com/user-attachments/assets/5d1b76a0-94cd-4b34-8592-18dcf5237dee)
+
 
