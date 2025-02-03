@@ -1,4 +1,4 @@
-# Introduction to Computational Thinking
+# Python Examples of Computational Thinking in STEM
 
 Computational thinking involves:
 - breaking problems into smaller parts (Decomposition)
